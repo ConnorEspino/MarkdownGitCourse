@@ -7,3 +7,8 @@ Here's some code that displays facts about pigs:
 ```
 System.out.pritln("Pigs are really neato!");
 ```
+
+TODO:
+- [ ] Create more pig facts
+- [ ] Find more pictures of pigs
+- [ ] Learn how to use markdown
